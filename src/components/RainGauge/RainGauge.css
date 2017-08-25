@@ -1,0 +1,9 @@
+.RainGauge{
+/*	align-content: flex-end;*/
+	border: 1px solid black;
+	display: flex;
+	flex-flow: row wrap;
+	height: 25em;
+	position: relative;
+	width: 7.5vw;
+}
